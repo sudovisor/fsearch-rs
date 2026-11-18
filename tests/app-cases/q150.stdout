@@ -1,0 +1,13 @@
+# query "childcount:1..10"
+= 11 results (11 folders, 0 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 192 1699971200 @HARNESS@/fixture/tree/.config
+D 128 1699978400 @HARNESS@/fixture/tree/.config/app
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper
+D 6 1698956000 @HARNESS@/fixture/tree/code/src/mod1
+D 9 1698920000 @HARNESS@/fixture/tree/code/src/mod2
+D 7 1698905600 @HARNESS@/fixture/tree/code/src/mod9
+D 6 1698941600 @HARNESS@/fixture/tree/code/src/mod10
+D 28 1698905600 @HARNESS@/fixture/tree/code/src
+D 1149 1698761600 @HARNESS@/fixture/tree/docs/sub dir

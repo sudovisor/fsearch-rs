@@ -1,0 +1,43 @@
+# query "a AND OR b"
+= 41 results (5 folders, 36 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 128 1699978400 @HARNESS@/fixture/tree/.config/app
+D 264180 1699100000 @HARNESS@/fixture/tree/big
+D 711145270 1698574400 @HARNESS@/fixture/tree/media
+D 1149 1698761600 @HARNESS@/fixture/tree/docs/sub dir
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 15 1666300400 @HARNESS@/fixture/tree/code/a-b_c.d
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 220 1666041200 @HARNESS@/fixture/tree/code/app.desktop
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 450 1665522800 @HARNESS@/fixture/tree/code/build.sh
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 2048 1652044400 @HARNESS@/fixture/tree/media/image.svg
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 2000 1664745200 @HARNESS@/fixture/tree/code/lib.rs
+F 1000 1664486000 @HARNESS@/fixture/tree/code/main.rs
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 50 1655410400 @HARNESS@/fixture/tree/docs/sub dir/space name.md
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 128 1699215200 @HARNESS@/fixture/tree/.config/app/state.json
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.
+F 8 1654377200 @HARNESS@/fixture/tree/docs/x0010.dat
+F 9 1654118000 @HARNESS@/fixture/tree/docs/x010.dat
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

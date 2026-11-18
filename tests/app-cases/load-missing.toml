@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["dump", "@HARNESS@/fixture/nope.db"]
+status.code = 1
+fs.sandbox = true

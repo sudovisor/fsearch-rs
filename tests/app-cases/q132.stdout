@@ -1,0 +1,4 @@
+# query "size:0"
+= 2 results (1 folders, 1 files)
+D 0 1698840800 @HARNESS@/fixture/tree/docs/empty_folder
+F 0 1698441200 @HARNESS@/fixture/tree/big/item_000.log

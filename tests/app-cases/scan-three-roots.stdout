@@ -1,0 +1,74 @@
+= 73 results (12 folders, 61 files)
+D 4108 1698891200 @HARNESS@/fixture/tree/code
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+D 711145270 1698574400 @HARNESS@/fixture/tree/media
+D 28 1698905600 @HARNESS@/fixture/tree/code/src
+D 6 1698956000 @HARNESS@/fixture/tree/code/src/mod1
+D 9 1698920000 @HARNESS@/fixture/tree/code/src/mod2
+D 7 1698905600 @HARNESS@/fixture/tree/code/src/mod9
+D 6 1698941600 @HARNESS@/fixture/tree/code/src/mod10
+D 0 1698840800 @HARNESS@/fixture/tree/docs/empty_folder
+D 1149 1698761600 @HARNESS@/fixture/tree/docs/sub dir
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 15 1666300400 @HARNESS@/fixture/tree/code/a-b_c.d
+F 220 1666041200 @HARNESS@/fixture/tree/code/app.desktop
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 450 1665522800 @HARNESS@/fixture/tree/code/build.sh
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 2000 1664745200 @HARNESS@/fixture/tree/code/lib.rs
+F 1000 1664486000 @HARNESS@/fixture/tree/code/main.rs
+F 10 1664226800 @HARNESS@/fixture/tree/code/pipe|plus+.txt
+F 7 1663967600 @HARNESS@/fixture/tree/code/question?.txt
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 5 1660079600 @HARNESS@/fixture/tree/code/weird[1](2){3}.txt
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 4 1659302000 @HARNESS@/fixture/tree/docs/.hidden_note.txt
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 10 1657746800 @HARNESS@/fixture/tree/docs/file10.txt
+F 12 1657228400 @HARNESS@/fixture/tree/docs/notes.txt
+F 120000 1656969200 @HARNESS@/fixture/tree/docs/report.pdf
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.
+F 19 1654636400 @HARNESS@/fixture/tree/docs/v1.9.txt
+F 110 1654895600 @HARNESS@/fixture/tree/docs/v1.10.txt
+F 8 1654377200 @HARNESS@/fixture/tree/docs/x0010.dat
+F 9 1654118000 @HARNESS@/fixture/tree/docs/x010.dat
+F 50 1655410400 @HARNESS@/fixture/tree/docs/sub dir/space name.md
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 44 1653599600 @HARNESS@/fixture/tree/media/Kelvin_K.txt
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 42 1652303600 @HARNESS@/fixture/tree/media/emoji_😀.txt
+F 2048 1652044400 @HARNESS@/fixture/tree/media/image.svg
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 700000000 1651526000 @HARNESS@/fixture/tree/media/movie.mkv
+F 3000000 1651266800 @HARNESS@/fixture/tree/media/photo.JPG
+F 2900000 1651007600 @HARNESS@/fixture/tree/media/photo.jpg
+F 4000000 1650748400 @HARNESS@/fixture/tree/media/song.mp3
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 4096 1650230000 @HARNESS@/fixture/tree/media/Ärger.png
+F 4097 1649970800 @HARNESS@/fixture/tree/media/ärger.png
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt
+F 37 1649452400 @HARNESS@/fixture/tree/media/ΣΊΣΥΦΟΣ.txt
+F 38 1649193200 @HARNESS@/fixture/tree/media/σίσυφος.txt
+F 41 1648934000 @HARNESS@/fixture/tree/media/日本語ファイル.txt
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

@@ -1,0 +1,26 @@
+# query "size:>=4096"
+= 24 results (5 folders, 19 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 264180 1699100000 @HARNESS@/fixture/tree/big
+D 4108 1698891200 @HARNESS@/fixture/tree/code
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+D 711145270 1698574400 @HARNESS@/fixture/tree/media
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 4107 1669670000 @HARNESS@/fixture/tree/big/item_111.log
+F 4144 1669410800 @HARNESS@/fixture/tree/big/item_112.log
+F 4181 1669151600 @HARNESS@/fixture/tree/big/item_113.log
+F 4218 1668892400 @HARNESS@/fixture/tree/big/item_114.log
+F 4255 1668633200 @HARNESS@/fixture/tree/big/item_115.log
+F 4292 1668374000 @HARNESS@/fixture/tree/big/item_116.log
+F 4329 1668114800 @HARNESS@/fixture/tree/big/item_117.log
+F 4366 1667855600 @HARNESS@/fixture/tree/big/item_118.log
+F 4403 1667596400 @HARNESS@/fixture/tree/big/item_119.log
+F 700000000 1651526000 @HARNESS@/fixture/tree/media/movie.mkv
+F 3000000 1651266800 @HARNESS@/fixture/tree/media/photo.JPG
+F 2900000 1651007600 @HARNESS@/fixture/tree/media/photo.jpg
+F 120000 1656969200 @HARNESS@/fixture/tree/docs/report.pdf
+F 4000000 1650748400 @HARNESS@/fixture/tree/media/song.mp3
+F 4096 1650230000 @HARNESS@/fixture/tree/media/Ärger.png
+F 4097 1649970800 @HARNESS@/fixture/tree/media/ärger.png

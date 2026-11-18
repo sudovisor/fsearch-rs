@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scanmd5", "@HARNESS@/out/regex_full.db", "--exclude", 'regex:full_path:both:media/.*\.(png|jpg)$', "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true

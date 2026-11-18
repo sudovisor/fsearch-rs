@@ -1,0 +1,9 @@
+# query "fi"
+= 7 results (2 folders, 5 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 192 1699971200 @HARNESS@/fixture/tree/.config
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 10 1657746800 @HARNESS@/fixture/tree/docs/file10.txt

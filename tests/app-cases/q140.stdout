@@ -1,0 +1,12 @@
+# query "depth:>3"
+= 10 results (1 folders, 9 files)
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c

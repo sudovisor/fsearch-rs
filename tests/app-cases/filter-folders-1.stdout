@@ -1,0 +1,5 @@
+# query "a"
+= 3 results (3 folders, 0 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 128 1699978400 @HARNESS@/fixture/tree/.config/app
+D 711145270 1698574400 @HARNESS@/fixture/tree/media

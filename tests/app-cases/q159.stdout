@@ -1,0 +1,42 @@
+# query "doc:"
+= 40 results (0 folders, 40 files)
+F 4 1659302000 @HARNESS@/fixture/tree/docs/.hidden_note.txt
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 44 1653599600 @HARNESS@/fixture/tree/media/Kelvin_K.txt
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 42 1652303600 @HARNESS@/fixture/tree/media/emoji_😀.txt
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 10 1657746800 @HARNESS@/fixture/tree/docs/file10.txt
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 12 1657228400 @HARNESS@/fixture/tree/docs/notes.txt
+F 10 1664226800 @HARNESS@/fixture/tree/code/pipe|plus+.txt
+F 7 1663967600 @HARNESS@/fixture/tree/code/question?.txt
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 120000 1656969200 @HARNESS@/fixture/tree/docs/report.pdf
+F 64 1698959600 @HARNESS@/fixture/tree/.config/settings.ini
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 19 1654636400 @HARNESS@/fixture/tree/docs/v1.9.txt
+F 110 1654895600 @HARNESS@/fixture/tree/docs/v1.10.txt
+F 5 1660079600 @HARNESS@/fixture/tree/code/weird[1](2){3}.txt
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt
+F 37 1649452400 @HARNESS@/fixture/tree/media/ΣΊΣΥΦΟΣ.txt
+F 38 1649193200 @HARNESS@/fixture/tree/media/σίσυφος.txt
+F 41 1648934000 @HARNESS@/fixture/tree/media/日本語ファイル.txt
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

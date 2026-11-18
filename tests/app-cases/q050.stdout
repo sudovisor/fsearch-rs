@@ -1,0 +1,7 @@
+# query "a b"
+= 5 results (0 folders, 5 files)
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 15 1666300400 @HARNESS@/fixture/tree/code/a-b_c.d
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt

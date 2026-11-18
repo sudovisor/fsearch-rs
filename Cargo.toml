@@ -1,0 +1,49 @@
+[package]
+name = "fsearch"
+version = "0.3.0"
+edition = "2024"
+publish = false
+description = "FSearch, a fast file search utility: the Rust port"
+license = "GPL-2.0-or-later"
+repository = "https://github.com/sudovisor/fsearch-rs"
+readme = "README.md"
+
+[[bin]]
+name = "fsearch"
+path = "src/main.rs"
+
+[dependencies]
+arboard = "3"
+chrono = "0.4.45"
+clap = "4"
+eframe = { version = "0.37", default-features = false, features = ["glow", "x11", "wayland", "default_fonts"] }
+egui_extras = "0.37"
+fsearch-core = { version = "0.1.0", path = "crates/fsearch-core" }
+fsearch-string-utils-rs = { path = "crates/fsearch-string-utils" }
+md5 = { package = "md-5", version = "0.11.0" }
+notify = "8"
+open = "5"
+png = "0.18"
+rfd = "0.18"
+trash = "5"
+
+[target.'cfg(unix)'.dependencies]
+rustix = { version = "1", features = ["net", "process"] }
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.61", features = ["Win32_System_Console"] }
+
+[workspace]
+members = [".", "crates/fsearch-core", "crates/fsearch-string-utils"]
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+strip = true
+
+[dev-dependencies]
+egui_kittest = { version = "0.37", features = ["eframe"] }
+trycmd = "1"
+
+[build-dependencies]
+cc = "1.11.2"

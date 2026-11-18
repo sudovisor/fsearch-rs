@@ -1,0 +1,9 @@
+# query "ext:c"
+= 7 results (0 folders, 7 files)
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c

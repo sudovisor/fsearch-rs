@@ -1,0 +1,16 @@
+# query "pic: OR video:"
+= 14 results (0 folders, 14 files)
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 2048 1652044400 @HARNESS@/fixture/tree/media/image.svg
+F 4 1699999500 @HARNESS@/fixture/tree/link_to_code
+F 15 1699999500 @HARNESS@/fixture/tree/link_to_report
+F 700000000 1651526000 @HARNESS@/fixture/tree/media/movie.mkv
+F 3000000 1651266800 @HARNESS@/fixture/tree/media/photo.JPG
+F 2900000 1651007600 @HARNESS@/fixture/tree/media/photo.jpg
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.
+F 4096 1650230000 @HARNESS@/fixture/tree/media/Ärger.png
+F 4097 1649970800 @HARNESS@/fixture/tree/media/ärger.png

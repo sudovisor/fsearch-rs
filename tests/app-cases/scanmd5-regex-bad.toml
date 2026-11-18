@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scanmd5", "@HARNESS@/out/regex_bad.db", "--exclude", "regex:basename:both:([", "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true

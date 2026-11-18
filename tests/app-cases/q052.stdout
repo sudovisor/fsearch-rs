@@ -1,0 +1,6 @@
+# query "report OR notes"
+= 4 results (0 folders, 4 files)
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 15 1699999500 @HARNESS@/fixture/tree/link_to_report
+F 12 1657228400 @HARNESS@/fixture/tree/docs/notes.txt
+F 120000 1656969200 @HARNESS@/fixture/tree/docs/report.pdf

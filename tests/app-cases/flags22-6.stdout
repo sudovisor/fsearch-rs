@@ -1,0 +1,9 @@
+# query "docs/.*\.txt"
+= 7 results (0 folders, 7 files)
+F 4 1659302000 @HARNESS@/fixture/tree/docs/.hidden_note.txt
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 10 1657746800 @HARNESS@/fixture/tree/docs/file10.txt
+F 12 1657228400 @HARNESS@/fixture/tree/docs/notes.txt
+F 19 1654636400 @HARNESS@/fixture/tree/docs/v1.9.txt
+F 110 1654895600 @HARNESS@/fixture/tree/docs/v1.10.txt

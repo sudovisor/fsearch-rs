@@ -1,0 +1,4 @@
+# query "size:=37"
+= 2 results (0 folders, 2 files)
+F 37 1698182000 @HARNESS@/fixture/tree/big/item_001.log
+F 37 1649452400 @HARNESS@/fixture/tree/media/ΣΊΣΥΦΟΣ.txt

@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["query", "@HARNESS@/fixture/fixture.db", "size", "asc", "18", "-", "--resort", "size", "e"]
+status.code = 0
+fs.sandbox = true

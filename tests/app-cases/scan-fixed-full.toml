@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scandump", "--exclude", "fixed:full_path:both:@HARNESS@/fixture/tree/docs", "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true

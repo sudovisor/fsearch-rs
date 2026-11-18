@@ -1,0 +1,5 @@
+# query "size:2mb"
+= 3 results (1 folders, 2 files)
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 2900000 1651007600 @HARNESS@/fixture/tree/media/photo.jpg

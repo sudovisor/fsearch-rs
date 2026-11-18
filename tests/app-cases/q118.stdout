@@ -1,0 +1,11 @@
+# query "size:>1mb"
+= 9 results (3 folders, 6 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+D 711145270 1698574400 @HARNESS@/fixture/tree/media
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 700000000 1651526000 @HARNESS@/fixture/tree/media/movie.mkv
+F 3000000 1651266800 @HARNESS@/fixture/tree/media/photo.JPG
+F 2900000 1651007600 @HARNESS@/fixture/tree/media/photo.jpg
+F 4000000 1650748400 @HARNESS@/fixture/tree/media/song.mp3

@@ -1,0 +1,5 @@
+# query "(?i)report"
+= 3 results (0 folders, 3 files)
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 15 1699999500 @HARNESS@/fixture/tree/link_to_report
+F 120000 1656969200 @HARNESS@/fixture/tree/docs/report.pdf

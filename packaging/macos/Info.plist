@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>FSearch</string>
+    <key>CFBundleExecutable</key>
+    <string>fsearch</string>
+    <key>CFBundleIconFile</key>
+    <string>fsearch</string>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.cboxdoerfer.FSearch</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>FSearch</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>VERSION_PLACEHOLDER</string>
+    <key>CFBundleVersion</key>
+    <string>VERSION_PLACEHOLDER</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.13</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>NSRequiresAquaSystemAppearance</key>
+    <false/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © Christian Boxdörfer. Licensed under GPL-2.0-or-later.</string>
+</dict>
+</plist>

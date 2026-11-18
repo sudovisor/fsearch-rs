@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scandump", "--exclude", "wildcard:basename:files:*.log", "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true

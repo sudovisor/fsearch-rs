@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scanmd5", "@HARNESS@/out/wild_full.db", "--exclude", "wildcard:full_path:folders:@HARNESS@/fixture/tree/*/s*", "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true

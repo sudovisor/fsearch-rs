@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["resave", "@HARNESS@/fixture/fixture.db", "@HARNESS@/out/resaved.db"]
+status.code = 0
+fs.sandbox = true

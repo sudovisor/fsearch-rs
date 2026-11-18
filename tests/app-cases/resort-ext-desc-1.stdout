@@ -1,0 +1,26 @@
+# query "c"
+= 24 results (5 folders, 19 files)
+F 1234567 1652562800 @HARNESS@/fixture/tree/media/clip.webm
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 50 1655410400 @HARNESS@/fixture/tree/docs/sub dir/space name.md
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 15 1666300400 @HARNESS@/fixture/tree/code/a-b_c.d
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 4 1699999500 @HARNESS@/fixture/tree/link_to_code
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+D 28 1698905600 @HARNESS@/fixture/tree/code/src
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+D 4108 1698891200 @HARNESS@/fixture/tree/code
+D 192 1699971200 @HARNESS@/fixture/tree/.config
+D 714040473 1698574400 @HARNESS@/fixture/tree

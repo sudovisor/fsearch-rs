@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["dump", "@HARNESS@/make_fixture.py"]
+status.code = 1
+fs.sandbox = true

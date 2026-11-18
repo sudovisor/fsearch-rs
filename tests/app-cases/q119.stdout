@@ -1,0 +1,27 @@
+# query "size:<10"
+= 25 results (5 folders, 20 files)
+D 0 1698840800 @HARNESS@/fixture/tree/docs/empty_folder
+D 6 1698956000 @HARNESS@/fixture/tree/code/src/mod1
+D 9 1698920000 @HARNESS@/fixture/tree/code/src/mod2
+D 7 1698905600 @HARNESS@/fixture/tree/code/src/mod9
+D 6 1698941600 @HARNESS@/fixture/tree/code/src/mod10
+F 4 1659302000 @HARNESS@/fixture/tree/docs/.hidden_note.txt
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 0 1698441200 @HARNESS@/fixture/tree/big/item_000.log
+F 4 1699999500 @HARNESS@/fixture/tree/link_to_code
+F 7 1663967600 @HARNESS@/fixture/tree/code/question?.txt
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.
+F 5 1660079600 @HARNESS@/fixture/tree/code/weird[1](2){3}.txt
+F 8 1654377200 @HARNESS@/fixture/tree/docs/x0010.dat
+F 9 1654118000 @HARNESS@/fixture/tree/docs/x010.dat
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c

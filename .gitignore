@@ -1,0 +1,9 @@
+/target
+/packaging/linux/tools/
+*.AppImage
+*.dmg
+*.zip
+*.exe
+*.sock
+*.swp
+.DS_Store

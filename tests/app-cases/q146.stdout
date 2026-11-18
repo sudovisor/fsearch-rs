@@ -1,0 +1,6 @@
+# query "childfilecount:>3"
+= 4 results (4 folders, 0 files)
+D 264180 1699100000 @HARNESS@/fixture/tree/big
+D 4108 1698891200 @HARNESS@/fixture/tree/code
+D 2626704 1698725600 @HARNESS@/fixture/tree/docs
+D 711145270 1698574400 @HARNESS@/fixture/tree/media

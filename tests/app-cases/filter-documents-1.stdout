@@ -1,0 +1,18 @@
+# query "a"
+= 16 results (0 folders, 16 files)
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 8 1665782000 @HARNESS@/fixture/tree/code/back\slash.txt
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

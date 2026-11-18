@@ -1,0 +1,5 @@
+# query "noregex:.*"
+= 3 results (1 folders, 2 files)
+D 192 1699971200 @HARNESS@/fixture/tree/.config
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 4 1659302000 @HARNESS@/fixture/tree/docs/.hidden_note.txt

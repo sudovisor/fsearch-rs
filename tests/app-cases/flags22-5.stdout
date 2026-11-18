@@ -1,0 +1,13 @@
+# query "^.{3}$"
+= 11 results (3 folders, 8 files)
+D 128 1699978400 @HARNESS@/fixture/tree/.config/app
+D 264180 1699100000 @HARNESS@/fixture/tree/big
+D 28 1698905600 @HARNESS@/fixture/tree/code/src
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 7 1660590800 @HARNESS@/fixture/tree/code/src/mod9/y.c
+F 6 1661886800 @HARNESS@/fixture/tree/code/src/mod10/z.c

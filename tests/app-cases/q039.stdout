@@ -1,0 +1,12 @@
+# query "item_00?.log"
+= 10 results (0 folders, 10 files)
+F 0 1698441200 @HARNESS@/fixture/tree/big/item_000.log
+F 37 1698182000 @HARNESS@/fixture/tree/big/item_001.log
+F 74 1697922800 @HARNESS@/fixture/tree/big/item_002.log
+F 111 1697663600 @HARNESS@/fixture/tree/big/item_003.log
+F 148 1697404400 @HARNESS@/fixture/tree/big/item_004.log
+F 185 1697145200 @HARNESS@/fixture/tree/big/item_005.log
+F 222 1696886000 @HARNESS@/fixture/tree/big/item_006.log
+F 259 1696626800 @HARNESS@/fixture/tree/big/item_007.log
+F 296 1696367600 @HARNESS@/fixture/tree/big/item_008.log
+F 333 1696108400 @HARNESS@/fixture/tree/big/item_009.log

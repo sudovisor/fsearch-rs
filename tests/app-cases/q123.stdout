@@ -1,0 +1,10 @@
+# query "size:<=3"
+= 8 results (1 folders, 7 files)
+D 0 1698840800 @HARNESS@/fixture/tree/docs/empty_folder
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 2 1662664400 @HARNESS@/fixture/tree/code/src/mod1/b.c
+F 3 1662405200 @HARNESS@/fixture/tree/code/src/mod1/c.h
+F 3 1658006000 @HARNESS@/fixture/tree/docs/file02.txt
+F 2 1657487600 @HARNESS@/fixture/tree/docs/file2.txt
+F 0 1698441200 @HARNESS@/fixture/tree/big/item_000.log
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.

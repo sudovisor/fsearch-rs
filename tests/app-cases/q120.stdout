@@ -1,0 +1,30 @@
+# query "size:10..100"
+= 28 results (1 folders, 27 files)
+D 28 1698905600 @HARNESS@/fixture/tree/code/src
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 44 1653599600 @HARNESS@/fixture/tree/media/Kelvin_K.txt
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 15 1666300400 @HARNESS@/fixture/tree/code/a-b_c.d
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 42 1652303600 @HARNESS@/fixture/tree/media/emoji_😀.txt
+F 10 1657746800 @HARNESS@/fixture/tree/docs/file10.txt
+F 36 1651785200 @HARNESS@/fixture/tree/media/istanbul.txt
+F 37 1698182000 @HARNESS@/fixture/tree/big/item_001.log
+F 74 1697922800 @HARNESS@/fixture/tree/big/item_002.log
+F 15 1699999500 @HARNESS@/fixture/tree/link_to_report
+F 12 1657228400 @HARNESS@/fixture/tree/docs/notes.txt
+F 10 1664226800 @HARNESS@/fixture/tree/code/pipe|plus+.txt
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 64 1698959600 @HARNESS@/fixture/tree/.config/settings.ini
+F 50 1655410400 @HARNESS@/fixture/tree/docs/sub dir/space name.md
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 19 1654636400 @HARNESS@/fixture/tree/docs/v1.9.txt
+F 35 1649711600 @HARNESS@/fixture/tree/media/İstanbul.txt
+F 37 1649452400 @HARNESS@/fixture/tree/media/ΣΊΣΥΦΟΣ.txt
+F 38 1649193200 @HARNESS@/fixture/tree/media/σίσυφος.txt
+F 41 1648934000 @HARNESS@/fixture/tree/media/日本語ファイル.txt
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

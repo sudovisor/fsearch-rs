@@ -1,0 +1,11 @@
+# query "^[A-Z]"
+= 9 results (0 folders, 9 files)
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 5 1661368400 @HARNESS@/fixture/tree/code/src/mod2/B.C
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 44 1653599600 @HARNESS@/fixture/tree/media/Kelvin_K.txt
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT

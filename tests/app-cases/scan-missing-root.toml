@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scandump", "@HARNESS@/fixture/tree/does-not-exist"]
+status.code = 0
+fs.sandbox = true

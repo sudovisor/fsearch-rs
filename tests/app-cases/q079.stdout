@@ -1,0 +1,29 @@
+# query "a NOT b"
+= 27 results (3 folders, 24 files)
+D 714040473 1698574400 @HARNESS@/fixture/tree
+D 128 1699978400 @HARNESS@/fixture/tree/.config/app
+D 711145270 1698574400 @HARNESS@/fixture/tree/media
+F 14 1667078000 @HARNESS@/fixture/tree/code/AND.txt
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 5000 1658783600 @HARNESS@/fixture/tree/docs/Report Final.PDF
+F 34 1653340400 @HARNESS@/fixture/tree/media/STRASSE.TXT
+F 1 1662923600 @HARNESS@/fixture/tree/code/src/mod1/a.c
+F 4 1661109200 @HARNESS@/fixture/tree/code/src/mod2/a.c
+F 220 1666041200 @HARNESS@/fixture/tree/code/app.desktop
+F 2500000 1658524400 @HARNESS@/fixture/tree/docs/archive.tar.gz
+F 40 1653081200 @HARNESS@/fixture/tree/media/café.txt
+F 39 1652822000 @HARNESS@/fixture/tree/media/café.txt
+F 11 1665263600 @HARNESS@/fixture/tree/code/colon:name.txt
+F 9 1665004400 @HARNESS@/fixture/tree/code/dollar$caret^.txt
+F 2048 1652044400 @HARNESS@/fixture/tree/media/image.svg
+F 1000 1664486000 @HARNESS@/fixture/tree/code/main.rs
+F 12 1663708400 @HARNESS@/fixture/tree/code/quote"name.txt
+F 50 1655410400 @HARNESS@/fixture/tree/docs/sub dir/space name.md
+F 6 1660338800 @HARNESS@/fixture/tree/code/star*name.txt
+F 128 1699215200 @HARNESS@/fixture/tree/.config/app/state.json
+F 33 1650489200 @HARNESS@/fixture/tree/media/straße.txt
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.
+F 8 1654377200 @HARNESS@/fixture/tree/docs/x0010.dat
+F 9 1654118000 @HARNESS@/fixture/tree/docs/x010.dat
+F 43 1648674800 @HARNESS@/fixture/tree/media/ﬁle_ligature.txt

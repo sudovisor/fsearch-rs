@@ -1,0 +1,9 @@
+# query "ext:"
+= 7 results (0 folders, 7 files)
+F 77 1659561200 @HARNESS@/fixture/tree/docs/.bashrc
+F 300 1666818800 @HARNESS@/fixture/tree/code/Makefile
+F 13 1666559600 @HARNESS@/fixture/tree/code/NOT
+F 300 1659042800 @HARNESS@/fixture/tree/docs/README
+F 4 1699999500 @HARNESS@/fixture/tree/link_to_code
+F 15 1699999500 @HARNESS@/fixture/tree/link_to_report
+F 1 1655154800 @HARNESS@/fixture/tree/docs/trailing.

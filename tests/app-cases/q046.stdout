@@ -1,0 +1,6 @@
+# query "/deep"
+= 4 results (2 folders, 2 files)
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep
+D 1099 1698768800 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper
+F 100 1655921600 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/Bottom.H
+F 999 1655662400 @HARNESS@/fixture/tree/docs/sub dir/deep/deeper/bottom.c

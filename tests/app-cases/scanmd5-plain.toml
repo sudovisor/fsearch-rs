@@ -1,0 +1,4 @@
+bin.name = "fsearch"
+args = ["scanmd5", "@HARNESS@/out/plain.db", "@HARNESS@/fixture/tree"]
+status.code = 0
+fs.sandbox = true
