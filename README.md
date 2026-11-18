@@ -16,6 +16,24 @@ full search syntax (`ext:`, `size:`, `dm:`, `regex:`, `case:`, `path:`, `AND`/`O
 - **One binary, no GTK.** The interface is drawn with [egui](https://github.com/emilk/egui) and runs on Linux
   (X11 & Wayland), Windows 10/11 and macOS (Universal 2: Apple Silicon & Intel).
 
+## FSearch: C original vs Rust port — time savings
+
+Benchmarks used `/usr` plus `$HOME` (108,179 folders and 768,006 files; 876,185 entries) on Ubuntu 26.04
+with 16 logical CPUs and a warm page cache. The C original was built with meson release/`-O2`; the Rust
+port used an LTO release build for x86-64. Scans are medians of 5 alternating runs, load/query/sort timings
+are medians of 15 runs, and GUI startup is a median of 7 alternating launches. See the
+[detailed benchmark report](docs/BENCHMARK.md) for methodology and per-query/sort results.
+
+| Operation | C (ms) | Rust (ms) | Speedup | Time saved |
+| --- | ---: | ---: | ---: | ---: |
+| Index build: scan | 3,882.3 | 486.3 | 7.98× | 3,396.0 ms (87%) |
+| Index build: save `fsearch.db` | 271.0 | 125.3 | 2.16× | 145.7 ms (54%) |
+| **Index build total (`--update-database`)** | 4,153.3 | 611.6 | 6.79× | 3,541.7 ms (85%) |
+| Database load | 156.3 | 71.2 | 2.20× | 85.1 ms (54%) |
+| **Startup to first GUI results** | 346.8 | 192.9 | 1.80× | 153.9 ms (44%) |
+| All 16 queries summed | 94.3 | 38.9 | 2.42× | 55.4 ms (59%) |
+| All 5 re-sorts summed | 1,405.3 | 3.02 | >100× | 1,402.3 ms (100%) |
+
 ## Looks
 
 The look is chosen in Preferences → Appearance and applies immediately.
