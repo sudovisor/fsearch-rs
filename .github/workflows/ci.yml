@@ -49,7 +49,10 @@ jobs:
         with:
           targets: x86_64-apple-darwin, aarch64-apple-darwin
       - name: Python dependencies
-        run: pip3 install pillow
+        run: |
+          python3 -m venv "$RUNNER_TEMP/fsearch-venv"
+          "$RUNNER_TEMP/fsearch-venv/bin/python" -m pip install pillow
+          echo "$RUNNER_TEMP/fsearch-venv/bin" >> "$GITHUB_PATH"
       - uses: Swatinem/rust-cache@v2
       - run: packaging/macos/build-macos.sh target/dist
       - uses: actions/upload-artifact@v4
