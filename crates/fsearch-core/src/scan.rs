@@ -38,6 +38,13 @@ mod sys {
     use rustix::fd::{AsFd, OwnedFd};
     use rustix::fs::{AtFlags, FileType, Mode, OFlags};
 
+    #[cfg(target_os = "macos")]
+    fn device_id(device: i32) -> u64 {
+        // Darwin's signed dev_t still identifies the same device by its 32-bit value.
+        u64::from(device as u32)
+    }
+
+    #[cfg(not(target_os = "macos"))]
     fn device_id(device: impl Into<u64>) -> u64 {
         device.into()
     }
